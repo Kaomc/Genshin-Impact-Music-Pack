@@ -1,0 +1,15 @@
+{
+	"type": "minecraftBedrock",
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"bridge": {
+		"v1CompatMode": true
+	},
+	"capabilities": [],
+	"namespace": "bridge",
+	"targetVersion": "1.16.0",
+	"name": "[.T] Genshin Impact Music Pack",
+	"description": "pack.description"
+}
