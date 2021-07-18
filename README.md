@@ -1,4 +1,4 @@
-<p align="left"><img src="https://media.discordapp.net/attachments/684063304678637666/866317338931888138/pack_icon.png?width=498&height=498"></p>
+<p align="left"><img src="https://media.discordapp.net/attachments/684063304678637666/866317338931888138/pack_icon.png?width=120&height=120"></p>
 
 # Genshin Impact Music Pack
 
