@@ -7,4 +7,5 @@ Replaces Vanilla Minecraft Music to Genshin Impact Music. From menu, gameplay, u
 __[Download Here](https://gimusicpackmc.carrd.co/)__
 
 **\*Music(s) are owned by miHoYo Co., Ltd., HOYO-MiX, and Yu-Peng Chen.**
+
 **\*The creator of this pack assumes no responsibility and liability for any loss and damage that may arise from the use of this pack.**
