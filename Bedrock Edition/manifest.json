@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "Genshin Impact Music Pack",
+		"description": "Ad astra abyssosque - 04022021",
+		"uuid": "1ca1b979-ac5d-400c-85be-9233ffb06b13",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "53fb9f60-c206-4b40-8800-3012cb6e92d9",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
